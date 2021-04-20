@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching chrome browser...]]>
+    </line>
+    <line>
+      <![CDATA[Opening URL http://automationpractice.com/index.php]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on T-shirt link]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //*[@id='block_top_menu']/ul/li[3]/a]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: (//ul[@class='product_list grid row']//li)[1]]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //p[@id='add_to_cart']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //a[@title='Proceed to checkout']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //span[text()='Proceed to checkout']]]>
+    </line>
+    <line>
+      <![CDATA[Entering valuetestuser1@mail.com]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //input[@id='email']]]>
+    </line>
+    <line>
+      <![CDATA[Entering value123456]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //*[@id='passwd']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //*[@id='SubmitLogin']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //span[text()='Proceed to checkout']]]>
+    </line>
+    <line>
+      <![CDATA[Successfully displayed Shipping tab]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //button//span[contains(text(),'Proceed to checkout')]]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //a[@class='cheque']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //button[@type='submit']/span[text()='I confirm my order']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //div[@class='box order-confirmation']]]>
+    </line>
+    <line>
+      <![CDATA[Order id is AGUQTASIA]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //div[@class='header_user_info']/a[@class='account']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //span[text()='Order history and details']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //a[@class='color-myaccount']]]>
+    </line>
+    <line>
+      <![CDATA[Orders found in histiry page [AGUQTASIA, TNBPUGRZS, PMMNQNFBV, ENCUOXHVE, PVIRKRWSV, BWIBVLYXW, CLEDNGHGF, BDOEGIOUU, LSRLACMUF, SJZLECAJY, ITNLQFTOF, UJOVPNPEP]]]>
+    </line>
+    <line>
+      <![CDATA[............Successfully verifed order.................]]>
+    </line>
+    <line>
+      <![CDATA[Closing chrome browser...]]>
+    </line>
+    <line>
+      <![CDATA[Launching chrome browser...]]>
+    </line>
+    <line>
+      <![CDATA[Opening URL http://automationpractice.com/index.php]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //div[@class='header_user_info']/a[@class='login']]]>
+    </line>
+    <line>
+      <![CDATA[Entering valuetestuser1@mail.com]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //input[@id='email']]]>
+    </line>
+    <line>
+      <![CDATA[Entering value123456]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //*[@id='passwd']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //*[@id='SubmitLogin']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //div[@class='header_user_info']/a[@class='account']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //span[text()='My personal information']]]>
+    </line>
+    <line>
+      <![CDATA[Updated name iQ]]>
+    </line>
+    <line>
+      <![CDATA[Entering valueiQ]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.id: lastname]]>
+    </line>
+    <line>
+      <![CDATA[Entering value123456]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.id: old_passwd]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //button[@name='submitIdentity']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element with locatorBy.xpath: //a[@class='account']/span]]>
+    </line>
+    <line>
+      <![CDATA[Actaul Username Testing leaguessfnewAINiQ]]>
+    </line>
+    <line>
+      <![CDATA[...........Successfully verified Personal info changes...........]]>
+    </line>
+    <line>
+      <![CDATA[Closing chrome browser...]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57296" started-at="2021-04-20T18:42:40 EDT" finished-at="2021-04-20T18:43:37 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57296" started-at="2021-04-20T18:42:40 EDT" finished-at="2021-04-20T18:43:37 EDT">
+      <class name="com.test.shridhara.WebAutomation.Scenario2Test">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.test.shridhara.WebAutomation.Scenario2Test@528931cf]" name="SetUp" is-config="true" duration-ms="2666" started-at="2021-04-20T18:43:18 EDT" finished-at="2021-04-20T18:43:21 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching chrome browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="updatePersonalInfo()[pri:0, instance:com.test.shridhara.WebAutomation.Scenario2Test@528931cf]" name="updatePersonalInfo" duration-ms="15069" started-at="2021-04-20T18:43:21 EDT" finished-at="2021-04-20T18:43:36 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening URL http://automationpractice.com/index.php]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //div[@class='header_user_info']/a[@class='login']]]>
+            </line>
+            <line>
+              <![CDATA[Entering valuetestuser1@mail.com]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //input[@id='email']]]>
+            </line>
+            <line>
+              <![CDATA[Entering value123456]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //*[@id='passwd']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //*[@id='SubmitLogin']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //div[@class='header_user_info']/a[@class='account']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //span[text()='My personal information']]]>
+            </line>
+            <line>
+              <![CDATA[Updated name iQ]]>
+            </line>
+            <line>
+              <![CDATA[Entering valueiQ]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.id: lastname]]>
+            </line>
+            <line>
+              <![CDATA[Entering value123456]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.id: old_passwd]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //button[@name='submitIdentity']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //a[@class='account']/span]]>
+            </line>
+            <line>
+              <![CDATA[Actaul Username Testing leaguessfnewAINiQ]]>
+            </line>
+            <line>
+              <![CDATA[...........Successfully verified Personal info changes...........]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updatePersonalInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.shridhara.WebAutomation.Scenario2Test@528931cf]" name="tearDown" is-config="true" duration-ms="1200" started-at="2021-04-20T18:43:36 EDT" finished-at="2021-04-20T18:43:37 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing chrome browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.shridhara.WebAutomation.Scenario2Test -->
+      <class name="com.test.shridhara.WebAutomation.Scenario1Test">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.test.shridhara.WebAutomation.Scenario1Test@5faeada1]" name="SetUp" is-config="true" duration-ms="5272" started-at="2021-04-20T18:42:40 EDT" finished-at="2021-04-20T18:42:45 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching chrome browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyOrder()[pri:0, instance:com.test.shridhara.WebAutomation.Scenario1Test@5faeada1]" name="verifyOrder" duration-ms="31928" started-at="2021-04-20T18:42:45 EDT" finished-at="2021-04-20T18:43:17 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening URL http://automationpractice.com/index.php]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on T-shirt link]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //*[@id='block_top_menu']/ul/li[3]/a]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: (//ul[@class='product_list grid row']//li)[1]]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //p[@id='add_to_cart']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //a[@title='Proceed to checkout']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //span[text()='Proceed to checkout']]]>
+            </line>
+            <line>
+              <![CDATA[Entering valuetestuser1@mail.com]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //input[@id='email']]]>
+            </line>
+            <line>
+              <![CDATA[Entering value123456]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //*[@id='passwd']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //*[@id='SubmitLogin']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //span[text()='Proceed to checkout']]]>
+            </line>
+            <line>
+              <![CDATA[Successfully displayed Shipping tab]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //button//span[contains(text(),'Proceed to checkout')]]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //a[@class='cheque']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //button[@type='submit']/span[text()='I confirm my order']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //div[@class='box order-confirmation']]]>
+            </line>
+            <line>
+              <![CDATA[Order id is AGUQTASIA]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //div[@class='header_user_info']/a[@class='account']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //span[text()='Order history and details']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element with locatorBy.xpath: //a[@class='color-myaccount']]]>
+            </line>
+            <line>
+              <![CDATA[Orders found in histiry page [AGUQTASIA, TNBPUGRZS, PMMNQNFBV, ENCUOXHVE, PVIRKRWSV, BWIBVLYXW, CLEDNGHGF, BDOEGIOUU, LSRLACMUF, SJZLECAJY, ITNLQFTOF, UJOVPNPEP]]]>
+            </line>
+            <line>
+              <![CDATA[............Successfully verifed order.................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.shridhara.WebAutomation.Scenario1Test@5faeada1]" name="tearDown" is-config="true" duration-ms="1085" started-at="2021-04-20T18:43:17 EDT" finished-at="2021-04-20T18:43:18 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing chrome browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.shridhara.WebAutomation.Scenario1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
